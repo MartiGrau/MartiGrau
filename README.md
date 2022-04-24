@@ -30,13 +30,6 @@ Besides work, I like hicking ⛰️ , and meet with my friends 🍻.
      </a>
 </p>
 
-<h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartiGrau&layout=compact&hide=html&theme=onedark" alt="MartiGrau" />
-</h3>
-<br />
-<h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MartiGrau&show_icons=true&theme=onedark" alt="MartiGrau" />
-</h3>
 
 <!---
 MartiGrau/MartiGrau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
