@@ -1,13 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 <h3>About Me</h3>
+I’m an R&D Computer Vision Engineer 🔍 with a knack for turning cutting-edge AI technology into impactful solutions. Since 2019, I’ve been deeply involved in generative AI, co-founding [StageInHome](https://stageinhome.com/) where I lead the charge in revolutionizing interior design through seamless integration of advanced computer vision technologies 🏠✨. Currently, I continue this innovative journey as the AI Lead at [Napptilus Tech Labs](https://napptilus.com/). 🚀
 
-I am currently working at [StageInHome](https://stageinhome.com/) as a R&D Computer Vision Engineer.
+My expertise includes generative models like StyleGAN and Diffusion models, along with hands-on experience in deploying scalable solutions using AWS tools like S3, SageMaker, and Lambdas. 
 
-My interests are related to segmentation models, Generative Neural Networks, and Productionising the CV models. I also like to follow latest research works happening in the Generative models domain.
-
-
-Besides work, I like hicking ⛰️ , and meet with my friends 🍻.
+Besides work, I enjoy outdoor sports ⛰️ , and socializing with friends 🍻.
 
   
 <h3 align="left">Languages & Tools:</h3>
