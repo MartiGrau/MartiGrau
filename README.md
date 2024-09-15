@@ -3,7 +3,7 @@
 <h3>About Me</h3>
 I’m an R&D Computer Vision Engineer 🔍 with a knack for turning cutting-edge AI technology into impactful solutions. 
 
-Since 2019, I’ve been deeply involved in generative AI, co-founding [StageInHome](https://stageinhome.com/) where I lead the charge in revolutionizing interior design through seamless integration of advanced computer vision technologies 🏠✨. Currently, I continue this innovative journey as the AI Lead at [Napptilus Tech Labs](https://napptilus.com/). 🚀
+Since 2019, I’ve been deeply involved in generative AI, co-founding [StageInHome](https://stageinhome.com/) where I lead the charge in revolutionizing interior design through seamless integration of advanced computer vision technologies 🏠✨. Currently, I continue this innovative journey as the Machine Learning Engineer and AI Lead at [Napptilus Tech Labs](https://napptilus.com/). 🚀
 
 My expertise includes generative models like StyleGAN and Diffusion models, along with hands-on experience in deploying scalable solutions using AWS tools like S3, SageMaker, and Lambdas. 
 
